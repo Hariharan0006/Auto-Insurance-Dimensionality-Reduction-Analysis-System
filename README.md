@@ -1,4 +1,9 @@
 📊 Insurance Dimensionality Reduction – PCA & SVD (Flask App)
+
+## 🎬 Project Demo
+
+[![Watch the Demo](sample_1.png)](https://your-video-link-here)
+
 🔍 Project Overview
 
 This project demonstrates the end-to-end deployment of dimensionality reduction techniques (PCA & SVD) on an Insurance Customer Dataset using Python, Scikit-Learn Pipelines, Flask, and MySQL.
@@ -171,4 +176,5 @@ Hariharan
 Data Analyst | Data Scientist
 
 📧 Email: hari06haranhari@gmail.com
+
 
