@@ -5,7 +5,7 @@
 [![Watch the Demo](sample_1.png)](https://www.linkedin.com/posts/hariharanpro_dimensionalityreduction-pca-svd-activity-7425863097887707136-gaFR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEiEWFkB11xqnBvyP8LaLDnq4mvZi_pwkvQ)
 
 ![Recommendation Result](sample_1.png)
-![Recommendation Result](sample_2.png)
+![Recommendation Result](sample2.png)
 
 🔍 Project Overview
 
@@ -179,6 +179,7 @@ Hariharan
 Data Analyst | Data Scientist
 
 📧 Email: hari06haranhari@gmail.com
+
 
 
 
